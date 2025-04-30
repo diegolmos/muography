@@ -10,7 +10,8 @@
 ## [SMAUG v1.0 – a user-friendly muon simulator for the imaging of geological objects in 3-D:](https://gmd.copernicus.org/articles/15/2441/2022/gmd-15-2441-2022.html)
 - [ ] [SMAUG V1.0](https://zenodo.org/records/5547356)
 
-## [The Meiga Framework: Git Simulación Mate](https://github.com/ataboadanunez/meiga)
+## [The Meiga Framework](https://jais.andromedapublisher.org/index.php/JAIS/article/view/266)
+- [ ] [Git Simulación Mate](https://github.com/ataboadanunez/meiga)
 
 ## [MUYSC (Muography Simulation Code)](https://halley.uis.edu.co/fuego/en/muysc-2/)
 - [ ] [GIT MUYSC](https://github.com/Jhosgun/MUYSC)
