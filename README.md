@@ -53,7 +53,7 @@
 ## Visualización Geológica:
 - [ ] [Leapfrog viewer](https://www.seequent.com/products-solutions/leapfrog-viewer/)
 
-El archivo 3D de densidad resultante será entregado en formato dxf (drawing exchange format). Es un archivo tipo CAD que puede ser visualizado en cualquier software que soporte archivos dxf (básicamente todos los softwares existentes en mineria/geologia). Estos archivos pueden incluir diferentes capas (por ejemplo para distintas densidades de roca, etc). Aquí hay una lista de softwares de modelamiento 3D más usados en la industria minera:
+El archivo 3D de densidad resultante será entregado en formato dxf (drawing exchange format). Es un archivo tipo CAD que puede ser visualizado en cualquier software que soporte archivos dxf (básicamente todos los softwares existentes en geologia). Estos archivos pueden incluir diferentes capas (por ejemplo para distintas densidades de roca, etc). Aquí hay una lista de softwares de modelamiento 3D más utilizados:
 
 - [ ] Leapfrog (Seequent)
 - [ ] Micromine
