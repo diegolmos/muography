@@ -22,7 +22,7 @@
 - [ ] [Muon scattering tomography end-to-end simulation framework](https://github.com/MaximeLagrange/Muography_Workshop_BND_2023)
 - [ ] [TomOpt: Differential Muon Tomography Optimisation](https://github.com/GilesStrong/tomopt)
 
-### [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography](https://github.com/jedlimlx/Muon-Tomography-AI)
+### [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: GitHub](https://github.com/jedlimlx/Muon-Tomography-AI)
 - [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Data Generation](https://github.com/jedlimlx/Muons-Data-Generation)
 - [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Dataset](https://www.kaggle.com/datasets/tomandjerry2005/muons-scattering-dataset)
 
