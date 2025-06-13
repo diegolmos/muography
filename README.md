@@ -22,7 +22,7 @@
 - [ ] [Muon scattering tomography end-to-end simulation framework](https://github.com/MaximeLagrange/Muography_Workshop_BND_2023)
 - [ ] [TomOpt: Differential Muon Tomography Optimisation](https://github.com/GilesStrong/tomopt)
 
-## [The PUMAS library: transport engine for muons in matter](https://www.sciencedirect.com/science/article/pii/S0010465522001576?via%3Dihub):
+## [The PUMAS library: transport engine for muons in matter](https://www.sciencedirect.com/science/article/pii/S0010465522001576?via%3Dihub)
 - [ ] [PUMAS publicaciones](https://niess.github.io/pumas-pages/)
 - [ ] [PUMAS documentación](https://pumas.readthedocs.io/en/latest/)
 - [ ] [PUMAS github](https://github.com/niess/pumas)
