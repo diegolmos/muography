@@ -22,6 +22,18 @@
 - [ ] [Muon scattering tomography end-to-end simulation framework](https://github.com/MaximeLagrange/Muography_Workshop_BND_2023)
 - [ ] [TomOpt: Differential Muon Tomography Optimisation](https://github.com/GilesStrong/tomopt)
 
+### [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: GitHub](https://github.com/jedlimlx/Muon-Tomography-AI)
+- [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Data Generation](https://github.com/jedlimlx/Muons-Data-Generation)
+- [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Dataset](https://www.kaggle.com/datasets/tomandjerry2005/muons-scattering-dataset)
+
+## Propagación Muones:
+
+### [PROPOSAL: A tool for propagation of charged leptons](https://www.sciencedirect.com/science/article/pii/S0010465513001355?via%3Dihub)
+- [ ] [Github](https://github.com/tudo-astroparticlephysics/PROPOSAL)
+
+### [MUTE (MUon inTensity codE) atmospheric muon fluxes and intensities underground](https://iopscience.iop.org/article/10.3847/1538-4357/ac5027)
+- [ ] [Github](https://github.com/wjwoodley/mute)
+
 ### [The PUMAS library: transport engine for muons in matter](https://www.sciencedirect.com/science/article/pii/S0010465522001576?via%3Dihub)
 - [ ] [PUMAS publicaciones](https://niess.github.io/pumas-pages/)
 - [ ] [PUMAS documentación](https://pumas.readthedocs.io/en/latest/)
@@ -32,9 +44,7 @@
 - [ ] [Webpage](https://niess.github.io/turtle-pages/)
 - [ ] [Github](https://github.com/niess/turtle)
 
-### [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: GitHub](https://github.com/jedlimlx/Muon-Tomography-AI)
-- [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Data Generation](https://github.com/jedlimlx/Muons-Data-Generation)
-- [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Dataset](https://www.kaggle.com/datasets/tomandjerry2005/muons-scattering-dataset)
+### [Atmospheric-Muon-Simulation: En función de presión atm. y altitud](https://github.com/bjohnson33/Atmospheric-Muon-Simulation) 
 
 ## MURAVES (Vesubio):
 - [ ] [muographic imaging of the internal structure of the summit of Mt. Vesuvius](https://github.com/muraves)
