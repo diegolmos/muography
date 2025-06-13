@@ -22,6 +22,12 @@
 - [ ] [Muon scattering tomography end-to-end simulation framework](https://github.com/MaximeLagrange/Muography_Workshop_BND_2023)
 - [ ] [TomOpt: Differential Muon Tomography Optimisation](https://github.com/GilesStrong/tomopt)
 
+## [The PUMAS library: transport engine for muons in matter](https://www.sciencedirect.com/science/article/pii/S0010465522001576?via%3Dihub):
+- [ ] [PUMAS publicaciones](https://niess.github.io/pumas-pages/)
+- [ ] [PUMAS documentación](https://pumas.readthedocs.io/en/latest/)
+- [ ] [PUMAS github](https://github.com/niess/pumas)
+- [ ] [PUMAS Material Data generator github](https://github.com/niess/pumas-materials)
+
 ### [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: GitHub](https://github.com/jedlimlx/Muon-Tomography-AI)
 - [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Data Generation](https://github.com/jedlimlx/Muons-Data-Generation)
 - [ ] [μ-Net: ConvNeXt-Based U-Nets for Muon Tomography: Dataset](https://www.kaggle.com/datasets/tomandjerry2005/muons-scattering-dataset)
@@ -50,6 +56,9 @@
 
 ## Métodos Bayesianos:
 - [ ] [STAN](https://mc-stan.org/)
+
+## [Pyrate: a novel system for data transformations, reconstruction and analysis](https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012061/pdf):
+- [ ] [Pyrate](https://github.com/fscutti/pyrate) 
 
 ## Visualización Geológica:
 - [ ] [Leapfrog viewer](https://www.seequent.com/products-solutions/leapfrog-viewer/)
