@@ -57,7 +57,7 @@
 ## Métodos Bayesianos:
 - [ ] [STAN](https://mc-stan.org/)
 
-## [Pyrate: a novel system for data transformations, reconstruction and analysis](https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012061/pdf):
+## [Pyrate: a novel system for data transformations, reconstruction and analysis](https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012061/pdf)
 - [ ] [Pyrate](https://github.com/fscutti/pyrate) 
 
 ## Visualización Geológica:
