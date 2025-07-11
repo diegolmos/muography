@@ -1,8 +1,12 @@
 # Density Reconstruction
 
+## Bibliografía:
+- [ ] [Google Drive Bibliografía Técnica (ULS)](https://drive.google.com/drive/folders/10dOF7vSQ-DwwNvrGEuqK-yFITWf5eXjF?usp=sharing)
+
 ## Nuestro código:
 - [ ] [Git Prof. Orlando Soto](https://gitlab.cern.ch/osotosan/density_reconstruction)
 - [ ] [Este Git](https://github.com/diegolmos/muography)
+- [ ] [Inversion 3D (privado)](https://github.com/juancarloshelo/Inversion3D)
 
 ## [3D Muographic Inversion in the Exploration of Cavities and Low-density Fractured Zones:](https://academic.oup.com/gji/article/236/1/700/7335291)
 - [ ] [Algoritmo Inversion 3D Bayesiano](https://zenodo.org/records/10039746)
@@ -86,6 +90,3 @@ El archivo 3D de densidad resultante será entregado en formato dxf (drawing exc
 - [ ] Vulcan (Maptek)
 - [ ] MineSight
 - [ ] AutoCAD
-
-## Bibliografía:
-- [ ] [Google Drive Bibliografía Técnica](https://drive.google.com/drive/folders/10dOF7vSQ-DwwNvrGEuqK-yFITWf5eXjF?usp=sharing)
