@@ -11,6 +11,9 @@
 ## [3D Muographic Inversion in the Exploration of Cavities and Low-density Fractured Zones:](https://academic.oup.com/gji/article/236/1/700/7335291)
 - [ ] [Algoritmo Inversion 3D Bayesiano](https://zenodo.org/records/10039746)
 
+## [Bayesian geophysical inversion using invertible neural networks](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JB022320)
+- [ ] [Data and code](https://datashare.ed.ac.uk/handle/10283/3886)
+
 ## [SMAUG v1.0 – a user-friendly muon simulator for the imaging of geological objects in 3-D:](https://gmd.copernicus.org/articles/15/2441/2022/gmd-15-2441-2022.html)
 - [ ] [SMAUG V1.0](https://zenodo.org/records/5547356)
 
