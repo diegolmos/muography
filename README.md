@@ -86,3 +86,6 @@ El archivo 3D de densidad resultante será entregado en formato dxf (drawing exc
 - [ ] Vulcan (Maptek)
 - [ ] MineSight
 - [ ] AutoCAD
+
+## Bibliografía:
+- [ ] [Google Drive Bibliografía Técnica](https://drive.google.com/drive/folders/10dOF7vSQ-DwwNvrGEuqK-yFITWf5eXjF?usp=sharing)
